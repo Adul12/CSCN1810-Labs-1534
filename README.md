@@ -1,2 +1,2 @@
-# CSCN1810-Labs-1534
-Solutions to CSCN1810 Labs
+# CSCN8010-Labs-1534
+Solutions to CSCN8010 Labs
